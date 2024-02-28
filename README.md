@@ -12,5 +12,3 @@
 React
 Javascript
 Tailwind css
-
-![react-svgrepo-com](https://github.com/CoderHaqiim/CoderHaqiim/assets/154645337/58cd2f0b-feea-463f-9b24-3fa979d4b4dd)
