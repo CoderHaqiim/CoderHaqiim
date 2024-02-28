@@ -1,5 +1,5 @@
 <h1>About me</h1>
-<div style="background-color:green;">
+<div">
   Hey,
   I'm Jayeola Abdulhakeem, but you can call me Haqiim. 
   I am a self-taught frontend web developer, working towards becoming a full-stack developer.
@@ -9,7 +9,7 @@
 
 <h1>My Tech Stack:</h1>
 
-<div>React</div><br>
-Javascript.<br>
-Tailwind css.<br>
+React
+Javascript
+Tailwind css
 
