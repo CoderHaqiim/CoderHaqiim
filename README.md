@@ -11,9 +11,8 @@
 
 <table>
   <tr>
-    <th>Hello</th>
+    <th>React</th>
+    <th>Javascript</th>
+    <th>Tailwind css</th>
   </tr>
 </table>
-React
-Javascript
-Tailwind css
