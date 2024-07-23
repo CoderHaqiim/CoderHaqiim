@@ -9,6 +9,11 @@
 
 <h1>My Tech Stack:</h1>
 
-<div>React</div>
+<table>
+  <tr>
+    <th>Hello</th>
+  </tr>
+</table>
+React
 Javascript
 Tailwind css
