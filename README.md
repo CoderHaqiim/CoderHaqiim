@@ -11,7 +11,7 @@
 
 <table>
   <tr>
-    <th>React</th>
+    <td>React</td>
     <th>Javascript</th>
     <th>Tailwind css</th>
   </tr>
